@@ -1,0 +1,5 @@
+# 本地报告产物(客户端 --report 输出)
+hostqos/
+*.log
+# 系统文件
+.DS_Store
